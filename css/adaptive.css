@@ -1,0 +1,23 @@
+@media (max-width: 900px) {
+  .header__button-adaptive {
+    display: none;
+  }
+  .burger-icon {
+    display: block;
+  }
+}
+
+
+
+
+
+
+
+
+
+@media (min-width: 900px) {
+  .burger {
+    opacity: 0;
+    visibility: hidden;
+  }
+}
